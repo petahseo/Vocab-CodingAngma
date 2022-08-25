@@ -1,9 +1,13 @@
-import "./App.css";
+import Header from "./component/Header";
+import DayList from "./component/DayList";
+import Day from "./component/Day";
 
 function App() {
   return (
     <div className="App">
-      <div>코딩시작</div>
+      <Header />
+      <DayList />
+      <Day />
     </div>
   );
 }
