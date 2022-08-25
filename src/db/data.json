@@ -23,7 +23,7 @@
       "day": 1,
       "eng": "book",
       "kor": "책",
-      "isDone": true
+      "isDone": false
     },
     {
       "id": 3,
@@ -87,6 +87,13 @@
       "kor": "오랜지",
       "isDone": false,
       "id": 12
+    },
+    {
+      "day": "3",
+      "eng": "milk",
+      "kor": "우유",
+      "isDone": false,
+      "id": 13
     }
   ]
 }
