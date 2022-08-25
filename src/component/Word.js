@@ -9,7 +9,6 @@ export default function Word({ word: w }) {
     setIsShow(!isShow);
   }
   function toggleDone() {
-    // setIsDone(!isDone);
     fetch(`http://localhost:3001/words/${word.id}`, {
       method: "PUT",
       headers: {
