@@ -80,6 +80,13 @@
       "kor": "원숭이",
       "isDone": false,
       "id": 11
+    },
+    {
+      "day": "4",
+      "eng": "orange",
+      "kor": "오랜지",
+      "isDone": false,
+      "id": 12
     }
   ]
 }
